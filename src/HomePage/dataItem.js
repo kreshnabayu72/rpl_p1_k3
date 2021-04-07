@@ -1,0 +1,88 @@
+const data = [
+  {
+    id: 1,
+    nama: "Converse CT 70s OX Sunflower",
+    harga: "Rp775.000",
+    kategori: "Sepatu & Sandal",
+    img: "/img/img1.png",
+  },
+  {
+    id: 2,
+    nama: "Iphone 7 32 GB",
+    harga: "Rp2.800.000",
+    kategori: "Komputer & Aksesoris",
+    img: "/img/img2.png",
+  },
+  {
+    id: 3,
+    nama: "Reinforce Speed (RS)",
+    harga: "Rp500.000",
+    kategori: "Sepatu & Sandal",
+    img: "/img/img3.png",
+  },
+  {
+    id: 4,
+    nama: "Macbook Pro MD101 2012",
+    harga: "Rp8.500.000",
+    kategori: "Komputer & Aksesoris",
+    img: "/img/img4.png",
+  },
+  {
+    id: 5,
+    nama: "Carrier Eiger Rhinos 60L Black",
+    harga: "Rp800.000",
+    kategori: "Tas",
+    img: "/img/img5.png",
+  },
+  {
+    id: 6,
+    nama: "Kalkulator Scientific",
+    harga: "Rp180.000",
+    kategori: "Kebutuhan Kampus",
+    img: "/img/img6.png",
+  },
+  {
+    id: 7,
+    nama: "Setrika Listrik Maspion HA-110",
+    harga: "Rp100.000",
+    kategori: "Lainnya",
+    img: "/img/img7.png",
+  },
+  {
+    id: 8,
+    nama: "Sports Cam Waterproof",
+    harga: "Rp300.000",
+    kategori: "Komputer & Aksesoris",
+    img: "/img/img8.png",
+  },
+  {
+    id: 9,
+    nama: "Diadora Sesto Black",
+    harga: "Rp400.000",
+    kategori: "Sepatu & Sandal",
+    img: "/img/img9.png",
+  },
+  {
+    id: 10,
+    nama: "Nike Cortez White",
+    harga: "Rp900.000",
+    kategori: "Sepatu & Sandal",
+    img: "/img/img10.png",
+  },
+  {
+    id: 11,
+    nama: "FILA Biella Italia",
+    harga: "Rp350.000",
+    kategori: "Sepatu & Sandal",
+    img: "/img/img11.png",
+  },
+  {
+    id: 12,
+    nama: "Buku Barisan Pemuda Zaman Nabi",
+    harga: "Rp70.000",
+    kategori: "Buku & Alat Tulis",
+    img: "/img/img12.png",
+  },
+];
+
+export default data;
