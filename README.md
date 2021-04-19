@@ -25,6 +25,6 @@ versi 09/03/2021
 
   -First version
 
-  -Cuma lgoin page
+  -Cuma login page
 
   -Logo IPB masih belum
