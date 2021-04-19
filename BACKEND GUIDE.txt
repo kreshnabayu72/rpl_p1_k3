@@ -1,0 +1,24 @@
+NYALAIN REACT
+1. Buat folder (misal x)
+2. buka folder x di vscode
+3. buka terminal vscode & ketik:
+	a. npm install
+	b. npm install create-react-app
+	c. npx create-react-app nama-app (agak lama)
+	d. cd nama-app
+	e. npm start
+	(d & e diketik setiap kali nyalain)
+4. ganti folder src & public pake folder src & public yang ada di github
+
+KEBUTUHAN BACKEND:
+1. Di src/HomePage/HomeItem.js itu nampilin item2 di homepage, data item ada di dataItem.js
+coba dataItem.js diimplementasi pake database
+
+2. Di Item/ItemDetail.js detail item sesuain berdasarkan itemnya
+
+3. Di LoginPage/LoginMenu.js & RegisterPage/RegisterMenu.js itu buat login & register, cari bagian <form> di file2nya, coba implementasiin Authorization 
+
+(nanti ditambah)
+(nyicil bikin database aja dlu)
+
+
