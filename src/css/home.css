@@ -6,6 +6,7 @@
   src: url(../Fonts/boston-angel/Boston\ Angel\ Regular.ttf);
   font-family: BostonAngel;
 }
+
 .logoIPB2 {
   position: absolute;
   top: 60vh;
@@ -272,8 +273,20 @@ p {
 }
 .homeBottom {
   width: 100vw;
-  height: 5vh;
+  height: 7vh;
+  z-index: -99;
   background-color: #12465b;
   display: block;
   margin-top: 50px;
+}
+.buletKHome {
+  position: absolute;
+  width: 150px;
+  height: 180px;
+  left: 90.2vw;
+  top: 218vh;
+  z-index: -999;
+  background: #f7be38;
+  border-radius: 150px 0 0 0px;
+  overflow: none;
 }

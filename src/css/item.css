@@ -211,8 +211,20 @@ body {
 }
 .itemBottom {
   width: 100vw;
-  height: 5vh;
+  height: 7vh;
+  z-index: -99;
   background-color: #12465b;
   display: block;
   margin-top: 50px;
+}
+.buletKItem {
+  position: absolute;
+  width: 150px;
+  height: 180px;
+  left: 90.2vw;
+  top: 210vh;
+  z-index: -999;
+  background: #f7be38;
+  border-radius: 150px 0 0 0px;
+  overflow: none;
 }

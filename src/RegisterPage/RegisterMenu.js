@@ -5,18 +5,22 @@ const RegisterMenu = () => {
   return (
     <div className="regMenu">
       <h1>Create Account</h1>
-      <div className="regBox">
+      <form className="regBox">
         <div className="regInputs">
           <div className="userBoxReg">
-            <h4>Username</h4>
-            <div className="inputs">
-              <div className="logoBorder">
-                <LogoUser />
-              </div>
+            <h4>Name</h4>
+            <div className="inputsNama">
               <input
                 type="text"
-                className="input"
+                className="inputNama"
                 onKeyDown={(e) => enterInput(e)}
+                placeholder="First Name"
+              />
+              <input
+                type="text"
+                className="inputNama"
+                onKeyDown={(e) => enterInput(e)}
+                placeholder="Last Name"
               />
             </div>
           </div>
@@ -48,12 +52,12 @@ const RegisterMenu = () => {
           </div>
         </div>
 
-        <Link to="/">
+        <Link to="/home">
           <button type="submit" className="signBtn">
             <h4 style={{ color: "#ffffff" }}>Create Account</h4>
           </button>
         </Link>
-      </div>
+      </form>
     </div>
   );
 };

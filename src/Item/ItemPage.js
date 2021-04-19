@@ -3,6 +3,7 @@ import { LogoIPB2 } from "../Logo";
 import ItemDetail from "./ItemDetail";
 import ItemComment from "./ItemComment";
 import "../css/item.css";
+import { HiasanItem } from "../Hiasan";
 const ItemPage = () => {
   return (
     <>
@@ -10,6 +11,7 @@ const ItemPage = () => {
       <ItemDetail />
       <ItemComment />
       <LogoIPB2 />
+      <HiasanItem />
       <div className="itemBottom"></div>
     </>
   );

@@ -16,5 +16,10 @@ const HiasanReg = () => {
     </>
   );
 };
-
-export { HiasanLogin, HiasanReg };
+const HiasanHome = () => {
+  return <div className="buletKHome"></div>;
+};
+const HiasanItem = () => {
+  return <div className="buletKItem"></div>;
+};
+export { HiasanLogin, HiasanReg, HiasanHome, HiasanItem };

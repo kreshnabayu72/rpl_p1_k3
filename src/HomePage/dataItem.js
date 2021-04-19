@@ -83,6 +83,20 @@ const data = [
     kategori: "Buku & Alat Tulis",
     img: "/img/img12.png",
   },
+  {
+    id: 13,
+    nama: "INI ITEM TAMBAHAN",
+    harga: "GRATIS",
+    kategori: "Lainnya",
+    img: "/smilsquare.jpg",
+  },
+  {
+    id: 14,
+    nama: "INI ITEM TAMBAHAN",
+    harga: "GRATIS",
+    kategori: "Lainnya",
+    img: "/smilsquare.jpg",
+  },
 ];
 
 export default data;

@@ -73,11 +73,26 @@ body {
   width: 345px;
   height: 45px;
 }
+.inputsNama {
+  display: flex;
+  justify-content: space-between;
+  width: 345px;
+  height: 45px;
+}
 .input {
   display: inline;
   margin-left: 7px;
   border: none;
   width: 300px;
+  font-family: ProductSansRegular;
+  font-size: 18px;
+  outline: none;
+}
+.inputNama {
+  background-color: #ffffff;
+  display: inline;
+  width: 150px;
+  border: 1.5px solid #12465b;
   font-family: ProductSansRegular;
   font-size: 18px;
   outline: none;

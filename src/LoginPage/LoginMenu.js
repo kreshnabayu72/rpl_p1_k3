@@ -5,7 +5,7 @@ const LoginMenu = () => {
   return (
     <div className="loginMenu">
       <h1>Sign in to continue</h1>
-      <div className="loginBox">
+      <form className="loginBox">
         <div className="loginInputs">
           <div className="emailBox">
             <h4>Email</h4>
@@ -43,7 +43,7 @@ const LoginMenu = () => {
         <Link to="/register">
           <p className="regLink">No account? Create one</p>
         </Link>
-      </div>
+      </form>
     </div>
   );
 };

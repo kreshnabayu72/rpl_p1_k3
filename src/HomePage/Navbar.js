@@ -1,12 +1,15 @@
 import React from "react";
 import { LogoScraptifyWhite, LogoSearch, LogoPlus } from "../Logo";
 import Pic from "../Pics/smilsquare.jpg";
-
+import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
     <>
       <div className="navbar">
-        <LogoScraptifyWhite />
+        <Link to="/home">
+          <LogoScraptifyWhite />
+        </Link>
+
         <div className="searchBar">
           <input
             type="text"
@@ -24,7 +27,9 @@ const Navbar = () => {
             Jual
           </p>
         </div>
-        <img src={Pic} alt=":)" className="proPic" />
+        <Link to="/profile">
+          <img src={Pic} alt=":)" className="proPic" />
+        </Link>
       </div>
     </>
   );
