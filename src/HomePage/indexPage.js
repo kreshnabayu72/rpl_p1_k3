@@ -1,6 +1,6 @@
 import React from "react";
 import "../css/home.css";
-import Navbar from "./Navbar";
+import NavbarIndex from "./NavbarIndex";
 import { LogoIPB2, LogoBottom } from "../Logo";
 import Header from "./HomeHeader";
 import Items from "./HomeItems";
@@ -37,7 +37,7 @@ const HomePage = () => {
 
   return (
     <>
-      <Navbar search={search} />
+      <NavbarIndex search={search} />
       <LogoIPB2 />
       <Header filter={filter} />
       <Items data={currentItems} />

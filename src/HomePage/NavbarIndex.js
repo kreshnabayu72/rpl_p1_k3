@@ -1,6 +1,5 @@
 import React from "react";
 import { LogoScraptifyWhite, LogoSearch, LogoPlus } from "../Logo";
-import Pic from "../Pics/smilsquare.jpg";
 import { Link } from "react-router-dom";
 const Navbar = ({ search }) => {
   return (
@@ -33,8 +32,10 @@ const Navbar = ({ search }) => {
             Jual
           </p>
         </div>
-        <Link to="/profile">
-          <img src={Pic} alt=":)" className="proPic" />
+        <Link to="/login">
+          <a href="" id="loginLink">
+            Login
+          </a>
         </Link>
       </div>
     </>

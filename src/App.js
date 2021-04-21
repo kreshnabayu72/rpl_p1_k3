@@ -5,6 +5,7 @@ import HomePage from "./HomePage/HomePage";
 import RegisterPage from "./RegisterPage/RegisterPage";
 import ItemPage from "./Item/ItemPage";
 import ProfilePage from "./Profile/ProfilePage";
+import IndexPage from "./HomePage/indexPage";
 
 const App = () => {
   useEffect(() => {
@@ -15,6 +16,9 @@ const App = () => {
     <Router>
       <Switch>
         <Route exact path="/">
+          <IndexPage />
+        </Route>
+        <Route exact path="/login">
           <LoginPage />
         </Route>
         <Route path="/home">

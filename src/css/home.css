@@ -3,6 +3,10 @@
   font-family: ProductSansRegular;
 }
 @font-face {
+  src: url(../Fonts/product-sans/Product\ Sans\ Bold.ttf);
+  font-family: ProductSansBold;
+}
+@font-face {
   src: url(../Fonts/boston-angel/Boston\ Angel\ Regular.ttf);
   font-family: BostonAngel;
 }
@@ -39,7 +43,7 @@
   font-size: 17px;
   border: none;
 }
-.searchInput {
+#searchInput {
   background-color: white;
   width: 63vw;
   height: 50px;
@@ -333,4 +337,10 @@ p {
   width: 2.6vw;
   height: 2.6vw;
   border-radius: 50%;
+}
+#loginLink {
+  color: white;
+  font-size: 24px;
+  font-family: ProductSansBold;
+  margin-right: 2vw;
 }
