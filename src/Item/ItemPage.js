@@ -1,5 +1,5 @@
 import Navbar from "../HomePage/Navbar";
-import { LogoIPB2 } from "../Logo";
+import { LogoIPB2, LogoBottom } from "../Logo";
 import ItemDetail from "./ItemDetail";
 import ItemComment from "./ItemComment";
 import "../css/item.css";
@@ -12,7 +12,9 @@ const ItemPage = () => {
       <ItemComment />
       <LogoIPB2 />
       <HiasanItem />
-      <div className="itemBottom"></div>
+      <div className="itemBottom">
+        <LogoBottom />
+      </div>
     </>
   );
 };

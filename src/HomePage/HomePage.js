@@ -1,13 +1,13 @@
 import React from "react";
 import "../css/home.css";
 import Navbar from "./Navbar";
-import { LogoIPB2 } from "../Logo";
+import { LogoIPB2, LogoBottom } from "../Logo";
 import Header from "./HomeHeader";
 import Items from "./HomeItems";
 import PageNums from "./ItemPageNums";
 import data from "../HomePage/dataItem";
 import { useState } from "react";
-import { HiasanHome } from "../Hiasan";
+import { HiasanHome, HiasanHome2 } from "../Hiasan";
 
 const HomePage = () => {
   document.body.style.overflow = "scroll";
@@ -34,8 +34,11 @@ const HomePage = () => {
       <Header filter={filter} />
       <Items data={currentItems} />
       <PageNums setCurrentPage={setCurrentPage} />
+      <HiasanHome2 />
       <HiasanHome />
-      <div className="homeBottom"></div>
+      <div className="homeBottom">
+        <LogoBottom />
+      </div>
     </>
   );
 };

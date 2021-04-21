@@ -1,7 +1,7 @@
 import React from "react";
-import "../css/home.css";
+import "../css/profil.css";
 import Navbar from "../HomePage/Navbar";
-import { LogoIPB2 } from "../Logo";
+import { LogoIPB2, LogoBottom } from "../Logo";
 import { HiasanHome } from "../Hiasan";
 import Acc from "./ProfileAccount";
 import Items from "./ProfileItems";
@@ -14,7 +14,9 @@ const HomePage = () => {
       <Acc />
       <Items />
       <HiasanHome />
-      <div className="homeBottom"></div>
+      <div className="homeBottom">
+        <LogoBottom />
+      </div>
     </>
   );
 };

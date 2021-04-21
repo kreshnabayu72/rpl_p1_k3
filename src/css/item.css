@@ -92,6 +92,7 @@ body {
 .partSeller h4 {
   margin-left: 20px;
   margin-top: 10px;
+  font-size: 28px;
 }
 .profil {
   display: flex;
@@ -100,11 +101,11 @@ body {
 }
 .pp img {
   border-radius: 50%;
-  width: 60px;
-  height: 60px;
+  width: 6vw;
+  height: 6vw;
 }
 .div {
-  margin-left: 18px;
+  margin-left: 2vw;
   display: flex;
   flex-direction: column;
   justify-content: left;
@@ -112,19 +113,25 @@ body {
 }
 .div p {
   margin: 0;
+  font-size: 20px;
 }
 .iconWA {
   background-color: #41c452;
-  width: 158px;
-  height: 27px;
-  border-radius: 5px;
+  margin-top: 10px;
+  width: 200px;
+  height: 40px;
+  border-radius: 10px;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  border: none;
+  outline: none;
+  cursor: pointer;
 }
 .iconWA p {
   display: inline;
   color: white;
+  font-size: 20px;
 }
 .partPrice h4 {
   margin-left: 20px;
