@@ -28,3 +28,22 @@ versi 09/03/2021
   -Cuma login page
 
   -Logo IPB masih belum
+
+============================================================
+
+versi 07/04/2021
+
+  -Login page & Register page selesai
+  
+  -Tampilan home page sisa hiasan background (buletan2)
+  
+  -Description page +- 80%
+  
+  ============================================================
+
+versi 22/04/2021
+
+  -Tampilan & fungsi home page selesai
+  
+  -Home page kurang fungsi buat nentuin profil pic & login
+
