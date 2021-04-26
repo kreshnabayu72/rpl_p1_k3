@@ -5,9 +5,10 @@ NYALAIN REACT
 	a. npm install
 	b. npm install create-react-app
 	c. npx create-react-app nama-app (agak lama)
-	d. cd nama-app
-	e. npm start
-	(d & e diketik setiap kali nyalain)
+	d. npm install react-router-dom 
+	e. cd nama-app
+	f. npm start
+	
 4. ganti folder src & public pake folder src & public yang ada di github
 
 KEBUTUHAN BACKEND:
