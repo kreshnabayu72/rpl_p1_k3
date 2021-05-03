@@ -1,3 +1,7 @@
+@font-face {
+  src: url(../Fonts/product-sans/Product\ Sans\ Bold.ttf);
+  font-family: ProductSansBold;
+}
 * {
   margin: 0;
   padding: 0;
@@ -73,6 +77,28 @@ body {
 }
 .itemName h1 {
   margin-left: 2vw;
+  font-size: 38px;
+}
+.deskripsiDiv {
+  background-color: #12465b;
+  height: 45px;
+  display: flex;
+  align-items: center;
+}
+.deskripsiDiv2 {
+  background-color: #12465b;
+  height: 45px;
+  display: flex;
+  align-items: center;
+}
+.deskripsiDiv h4 {
+  color: white;
+  margin-left: 2vw;
+  font-size: 36px;
+}
+.deskripsiDiv2 h4 {
+  color: white;
+  margin-left: 2vw;
   font-size: 36px;
 }
 .itemDescr h4 {
@@ -135,7 +161,6 @@ body {
 }
 .partPrice h4 {
   margin-left: 20px;
-  margin-top: 10px;
   font-size: 28px;
 }
 .partPrice p {
@@ -234,4 +259,36 @@ body {
   background: #f7be38;
   border-radius: 150px 0 0 0px;
   overflow: none;
+}
+
+.itemHargaBtn {
+  display: flex;
+}
+.itemBtns {
+  width: 45%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 20px;
+}
+.itemBtns button {
+  width: 50px;
+  height: 25px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  color: white;
+}
+.itemBtnEdit {
+  background-color: #41c452;
+}
+.itemBtnHapus {
+  background-color: #d8574a;
+}
+.itemDesc h1 {
+  font-size: 24px;
+}
+.itemDesc p {
+  margin-top: 18px;
+  font-size: 20px;
 }

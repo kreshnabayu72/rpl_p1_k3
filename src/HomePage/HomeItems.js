@@ -4,7 +4,7 @@ const HomeItems = ({ data }) => {
     <div className="homeItems">
       {data.map((item) => {
         return (
-          <Link to="/item" style={{ textDecoration: "none" }}>
+          <Link to={`/item/${item.id}`} style={{ textDecoration: "none" }}>
             <div className="homeItem" key={item.id}>
               <img src={item.img} alt=":)" className="itemPic" />
               <div className="itemDesc">

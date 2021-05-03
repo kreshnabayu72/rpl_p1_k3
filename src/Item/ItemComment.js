@@ -2,7 +2,7 @@ const ItemComment = () => {
   return (
     <>
       <div className="itemComment">
-        <p className="itemTitle">Komentar</p>
+        <h1 className="itemTitle">Komentar</h1>
         <div className="comments">
           <div className="addComment">
             <div className="addCmtImg"></div>

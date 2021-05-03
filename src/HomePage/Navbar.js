@@ -2,7 +2,7 @@ import React from "react";
 import { LogoScraptifyWhite, LogoSearch, LogoPlus } from "../Logo";
 import Pic from "../Pics/smilsquare.jpg";
 import { Link } from "react-router-dom";
-const Navbar = ({ search }) => {
+const Navbar = ({ search, tampilin }) => {
   return (
     <>
       <div className="navbar">
@@ -26,13 +26,15 @@ const Navbar = ({ search }) => {
             <LogoSearch />
           </div>
         </div>
+        <Link to="/jual">
+          <div className="jualBtn">
+            <LogoPlus />
+            <p style={{ color: "white", marginRight: "9px", fontSize: "20px" }}>
+              Jual
+            </p>
+          </div>
+        </Link>
 
-        <div className="jualBtn">
-          <LogoPlus />
-          <p style={{ color: "white", marginRight: "9px", fontSize: "20px" }}>
-            Jual
-          </p>
-        </div>
         <Link to="/profile">
           <img src={Pic} alt=":)" className="proPic" />
         </Link>

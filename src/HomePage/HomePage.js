@@ -21,25 +21,33 @@ const HomePage = () => {
   const currentItems = items.slice(indexFirstPost, indexLastPost);
 
   //fungsi kategori
+  const [category, setCategory] = useState("");
   function filter(jenis) {
     const newItems = data.filter((dat) => {
       return dat.kategori === jenis;
     });
     setItems(newItems);
+    setCategory(jenis);
+  }
+  function nofilter() {
+    setItems(data);
+    setCategory("");
   }
   //fungsi search
+  const [cari, setCari] = useState("");
   function search(nama) {
     const newItems = data.filter((dat) => {
-      return dat.nama.includes(nama);
+      return dat.nama.toUpperCase().includes(nama.toUpperCase());
     });
     setItems(newItems);
+    setCari(nama);
   }
 
   return (
     <>
       <Navbar search={search} />
       <LogoIPB2 />
-      <Header filter={filter} />
+      <Header filter={filter} cari={cari} cat={category} nofilter={nofilter} />
       <Items data={currentItems} />
       <PageNums setCurrentPage={setCurrentPage} />
       <HiasanHome2 />

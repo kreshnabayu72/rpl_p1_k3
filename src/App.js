@@ -6,6 +6,7 @@ import RegisterPage from "./RegisterPage/RegisterPage";
 import ItemPage from "./Item/ItemPage";
 import ProfilePage from "./Profile/ProfilePage";
 import IndexPage from "./HomePage/indexPage";
+import JualPage from "./Jual/JualPage";
 
 const App = () => {
   useEffect(() => {
@@ -27,11 +28,12 @@ const App = () => {
         <Route path="/register">
           <RegisterPage />
         </Route>
-        <Route path="/item">
-          <ItemPage />
-        </Route>
+        <Route path="/item/:id" children={<ItemPage />}></Route>
         <Route path="/profile">
           <ProfilePage />
+        </Route>
+        <Route path="/jual">
+          <JualPage />
         </Route>
       </Switch>
     </Router>

@@ -3,7 +3,7 @@ import { WhatsApp } from "../Logo";
 const ProfAccount = () => {
   return (
     <div className="profAccount">
-      <p className="profilTitle">Pengaturan Akun</p>
+      <h1 className="profilTitle">Pengaturan Akun</h1>
       <div className="accBox">
         <div className="accleft">
           <img src="smilsquare.jpg" alt="" />
@@ -13,15 +13,13 @@ const ProfAccount = () => {
           </div>
         </div>
         <div className="accright">
-          <div className="profIn profNama">
-            <div className="profFName">
-              <h1>First Name</h1>
-              <input type="text" value="Seto" />
-            </div>
-            <div className="profIn">
-              <h1>Last Name</h1>
-              <input type="text" value="Nurdiyantoro" />
-            </div>
+          <div className="profIn">
+            <h1>Nama Lengkap</h1>
+            <input type="text" value="Seto Nurdiyantoro" />
+          </div>
+          <div className="profIn">
+            <h1>NIM</h1>
+            <input type="text" value="G64199999" />
           </div>
           <div className="profIn">
             <h1>Email</h1>

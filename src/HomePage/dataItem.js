@@ -10,7 +10,7 @@ const data = [
     id: 2,
     nama: "Iphone 7 32 GB",
     harga: "Rp2.800.000",
-    kategori: "Komputer & Aksesoris",
+    kategori: "Handphone & Aksesoris",
     img: "/img/img2.png",
   },
   {
@@ -45,7 +45,7 @@ const data = [
     id: 7,
     nama: "Setrika Listrik Maspion HA-110",
     harga: "Rp100.000",
-    kategori: "Lainnya",
+    kategori: "Elektronik",
     img: "/img/img7.png",
   },
   {
@@ -85,17 +85,10 @@ const data = [
   },
   {
     id: 13,
-    nama: "INI ITEM TAMBAHAN",
-    harga: "GRATIS",
-    kategori: "Lainnya",
-    img: "/smilsquare.jpg",
-  },
-  {
-    id: 14,
-    nama: "INI ITEM TAMBAHAN",
-    harga: "GRATIS",
-    kategori: "Lainnya",
-    img: "/smilsquare.jpg",
+    nama: "Buku",
+    harga: "Rp70.000",
+    kategori: "Buku & Alat Tulis",
+    img: "/img/img12.png",
   },
 ];
 
