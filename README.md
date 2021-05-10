@@ -1,6 +1,7 @@
 # rpl_p1_k3
 SCRAPTIFY : Situs jual beli barang bekas antar Mahasiswa IPB
 
+============================================================
 
 versi 03/05/2021
   
@@ -25,7 +26,7 @@ versi 07/04/2021
 
   - Login page & Register page selesai
 
-  - Tampilan home page sisa hiasan background (buletan2)
+  - Tampilan home page sisa hiasan background
 
   - Description page +- 80%
   
