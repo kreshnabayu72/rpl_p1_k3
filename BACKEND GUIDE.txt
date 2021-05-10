@@ -15,11 +15,10 @@ KEBUTUHAN BACKEND:
 1. Di src/HomePage/HomeItem.js itu nampilin item2 di homepage, data item ada di dataItem.js
 coba dataItem.js diimplementasi pake database
 
-2. Di Item/ItemDetail.js detail item sesuain berdasarkan itemnya (eh ini bisa sih di react, tapi klo gk sempet pake backend aja)
+2. Di Item/ItemDetail.js detail item sesuain berdasarkan itemnya
 
 3. Di LoginPage/LoginMenu.js & RegisterPage/RegisterMenu.js itu buat login & register, cari bagian <form> di file2nya, coba implementasiin Authorization 
 
-(nanti ditambah)
-(nyicil bikin database aja dlu)
+4. Profil page samain dengan profil yang sedang login
 
 
