@@ -3,6 +3,11 @@ SCRAPTIFY : Situs jual beli barang bekas antar Mahasiswa IPB
 
 ============================================================
 
+versi 31/05/2021
+  - Frontend reworked, sisa rapih2 
+
+============================================================
+
 versi 24/05/2021
   - Added backend files, backend sudah jadi tapi frontend di rework sedikit
 
