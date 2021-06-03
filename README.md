@@ -20,17 +20,49 @@
  *  Indah Puspita
  *  Qoriatul Khairunnisa
  
- **Deskripsi Singkat Aplikasi:**
-  * Scraptify merupakan aplikasi *e-commerce* sederhana yang ditujukan untuk mahasiswa IPB
+ **Deskripsi Aplikasi:**
+  * Scraptify merupakan aplikasi *e-commerce* sederhana yang ditujukan untuk mahasiswa IPB. (ntar ditambah)
 
 
 ## B. User Analysis
+  * User story
 
 ## C. Spesifikasi teknis lingkungan pengembangan
 
+**Software:**
+  * Operating System: Windows 10
+  * Text Editor: Visual Studio Code
+  * Framework: React.js
+  * Library: Bootstrap 
+  * Database: MongoDB Atlas
+
+**Hardware:**
+  * Processor: Intel Core i5-8300H 
+  * Memory: 16GB
+  * Graphics Card: Nvidia GTX 1050 Mobile
+  * Storage: 1TB
+
+**Tech Stack:**
+ * Frontend: ReactJS
+ * Backend: NodeJS & ExpressJS
+ * Database: MongoDB 
+
 ## D. Hasil dan pembahasan 
+  * Use case diagram 
+  * Activity diagram 
+  * Class diagram 
+  * Entity Relationship Diagram 
+  * Arsitektur sistem 
+  * Fungsi utama yang dikembangkan
+  * Fungsi CRUD
 
-## E. Testing (Test cases)
+## E. Hasil implementasi 
+  * Screenshot sistem 
+  * Link aplikasi: (Server harus dinyalakan agar backend website berfungsi)
+    * Website: https://scraptify.herokuapp.com/ 
+    * Server: https://scraptify-server.herokuapp.com/
 
-## F. Saran untuk pengembangan selanjutnya
+## F. Testing (Test cases)
+
+## G. Saran untuk pengembangan selanjutnya
 
