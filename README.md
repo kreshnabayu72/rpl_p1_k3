@@ -26,6 +26,23 @@
 
 ## B. User Analysis
   * User story
+    1. Sebagai pengguna yang telah log out, agar dapat menggunakan aplikasi secara personal, saya dapat mengetikkan alamat email dan kata sandi saya untuk masuk ke aplikasi. 
+
+    2. Sebagai mahasiswa yang membutuhkan barang tertentu, saya dapat login ke situs dan melihat-lihat barang yang dijual lalu membelinya.
+
+    3. Sebagai pembeli, agar dapat melakukan pembayaran, saya dapat menentukan metode pembayaran.
+
+    4. Sebagai pembeli, agar barang yang didapat terjamin kualitasnya, saya dapat memilih untuk mengonfirmasi barang atau mereturn.
+
+    5. Sebagai penjual, agar dapat menjelaskan produk yang akan dijual, saya dapat menuliskan harga serta deskripsi barang yang akan saya jual.
+
+    6. Sebagai pengguna, agar dapat melakukan negosiasi barang yang akan saya dibeli, saya dapat melihat kontak penjual.
+
+    7. Sebagai pengguna, agar memudahkan saya mencari barang yg saya cari, saya dapat memilih kategori barang yg saya cari.
+
+    8. Sebagai pengguna, agar dapat mencari barang spesifik, saya dapat menggunakan fitur search.
+
+    9. Sebagai pengguna, agar dapat memastikan bahwa akun saya up-to-date, saya dapat mengganti data akun saya.
 
 ## C. Spesifikasi teknis lingkungan pengembangan
 
@@ -58,6 +75,10 @@
 
 ## E. Hasil implementasi 
   * Screenshot sistem 
+    * Homepage
+    <p align="center">
+      <img src="https://i.ibb.co/KrVPBYC/home.jpg" alt="HomePage" width=500 height=190 align="center">
+    </p>
   * Link aplikasi: (Server harus dinyalakan agar backend website berfungsi)
     * Website: https://scraptify.herokuapp.com/ 
     * Server: https://scraptify-server.herokuapp.com/
