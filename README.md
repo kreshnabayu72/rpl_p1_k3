@@ -70,15 +70,49 @@
   * Class diagram 
   * Entity Relationship Diagram 
   * Arsitektur sistem 
+     <p align="center">
+      <img src="https://i.ibb.co/LP5xjNS/bandicam-2021-06-04-19-25-38-508.jpg" alt="CartPage" width=750 height=330 align="center">
+    </p>
+                                                                                                                               
   * Fungsi utama yang dikembangkan
+    * Pembeli dapat membuat order barang tertentu yang dapat diterima oleh penjual. Penjual dapat mengirim barang yang dipesan dan penjual mengkonfirmasi pembelian.
   * Fungsi CRUD
+    * Create:
+      1. Penjual dapat memposting barang baru
+      2. Pembeli dapat membuat order barang
+    * Read:
+      1. Semua pengguna dapat melihat barang yang tersedia
+      2. Semua pengguna dapat melihat detail barang
+    * Update:
+      1. Semua pengguna dapat mengubah data diri
+      2. Penjual dapat mengubah deskripsi barang
+    * Delete: 
+      1. Penjual dapat menghapus barang
+      2. Admin dapat menghapus order dan barang
+    
 
 ## E. Hasil implementasi 
   * Screenshot sistem 
     * Homepage
     <p align="center">
-      <img src="https://i.ibb.co/KrVPBYC/home.jpg" alt="HomePage" width=500 height=190 align="center">
+      <img src="https://i.ibb.co/KrVPBYC/home.jpg" alt="HomePage" width=500 height=1000 align="center">
     </p>
+    
+    * Profile page
+     <p align="center">
+      <img src="https://i.ibb.co/TgW4w15/profile.jpg" alt="ProfilePage" width=500 height=400 align="center">
+    </p>
+    
+    * Item Page
+     <p align="center">
+      <img src="https://i.ibb.co/jTL0xyG/item.jpg" alt="CartPage" width=500 height=400 align="center">
+    </p>
+    
+    * Page Keranjang
+     <p align="center">
+      <img src="https://i.ibb.co/HKg1nbx/cart.jpg" alt="CartPage" width=500 height=400 align="center">
+    </p>
+    
   * Link aplikasi: (Server harus dinyalakan agar backend website berfungsi)
     * Website: https://scraptify.herokuapp.com/ 
     * Server: https://scraptify-server.herokuapp.com/
