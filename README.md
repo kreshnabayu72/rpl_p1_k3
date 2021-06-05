@@ -65,12 +65,16 @@
  * Database: MongoDB 
 
 ## D. Hasil dan pembahasan 
-  * Use case diagram 
+  * Use case diagram
+    * Pengguna Action
+      <p align="center">
+        <img src="https://i.ibb.co/VBHBCCY/scraptify-usecase-diagram-PENGGUNA-ACTION.png" alt="scraptify-usecase-diagram-PENGGUNA-ACTION">
+      </p>
   * Activity diagram 
   * Class diagram 
   * Entity Relationship Diagram 
   * Arsitektur sistem 
-     <p align="center">
+    <p align="center">
       <img src="https://i.ibb.co/LP5xjNS/bandicam-2021-06-04-19-25-38-508.jpg" alt="CartPage" width=750 height=330 align="center">
     </p>
                                                                                                                                
