@@ -66,6 +66,10 @@
 
 ## D. Hasil dan pembahasan 
   * Use case diagram
+    * Pengguna Action
+      <p href="https://ibb.co/vzxcBnG">
+        <img src="https://i.ibb.co/SvX6xC8/scraptify-usecase-diagram-PENGGUNA-ACTION.jpg" alt="scraptify-usecase-diagram-PENGGUNA-ACTION" border="0">
+      </p>
     * Order Action
       <p href="https://ibb.co/0r8GphZ">
         <img src="https://i.ibb.co/DQsRP5k/scraptify-usecase-diagram-ORDER-ACTION.jpg" alt="scraptify-usecase-diagram-ORDER-ACTION" border="0">
