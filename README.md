@@ -67,7 +67,7 @@
 ## D. Hasil dan pembahasan 
   * Use case diagram
     * Pengguna Action
-      <p href="https://ibb.co/vzxcBnG">
+      <p align="center">
         <img src="https://i.ibb.co/SvX6xC8/scraptify-usecase-diagram-PENGGUNA-ACTION.jpg" alt="scraptify-usecase-diagram-PENGGUNA-ACTION" border="0">
       </p>
     * Admin Action
