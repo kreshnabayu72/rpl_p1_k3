@@ -94,7 +94,7 @@
       </p>
     * Meng-update Pengguna
       <p align="center">
-        <img src="https://i.ibb.co/JynP3qc/scraptify-activity-diagram-Page-3.jpg" alt="scraptify-activity-diagram-Page-3" border="0">
+        <img src="https://i.ibb.co/2tN76TJ/scraptify-activity-diagram-Page-3-1.jpg" alt="scraptify-activity-diagram-Page-3-1" border="0">
       </p>
     * Memproses Penjualan Barang 
       <p align="center">
