@@ -74,11 +74,15 @@
       <p href="https://ibb.co/wW4L2Vj">
         <img src="https://i.ibb.co/hWVMTbw/scraptify-usecase-diagram-ADMIN-ACTION.jpg" alt="scraptify-usecase-diagram-ADMIN-ACTION" border="0">
       </p>
-    * Product Action
+    * Product Action - Proses Menjual Barang
       <p href="https://ibb.co/x6QvR54">
         <img src="https://i.ibb.co/HqQvkgJ/scraptify-usecase-diagram-PRODUCT-ACTION.jpg" alt="scraptify-usecase-diagram-PRODUCT-ACTION" border="0">
       </p>
-    * Order Action
+    * Cart Action - Proses Membeli Barang
+      <p href="https://ibb.co/fSXF1S1">
+        <img src="https://i.ibb.co/kyGBHyH/scraptify-usecase-diagram-CART-ACTION.jpg" alt="scraptify-usecase-diagram-CART-ACTION" border="0">
+      </p>
+    * Order Action - Proses Menyelesaiankan Pembelian Barang
       <p href="https://ibb.co/0r8GphZ">
         <img src="https://i.ibb.co/DQsRP5k/scraptify-usecase-diagram-ORDER-ACTION.jpg" alt="scraptify-usecase-diagram-ORDER-ACTION" border="0">
       </p>
