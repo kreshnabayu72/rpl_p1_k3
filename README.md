@@ -88,21 +88,26 @@
       </p>
 
   * Activity diagram
-    <p align="center">
-      <img src="https://i.ibb.co/Tr031Bg/scraptify-activity-diagram-Page-2.jpg" alt="scraptify-activity-diagram-Page-2" border="0">
-    </p>
-    <p align="center">
-      <img src="https://i.ibb.co/JynP3qc/scraptify-activity-diagram-Page-3.jpg" alt="scraptify-activity-diagram-Page-3" border="0">
-    </p>
-    <p align="center">
-      <img src="https://i.ibb.co/hHjszJw/scraptify-activity-diagram-Page-4.jpg" alt="scraptify-activity-diagram-Page-4" border="0">
-    </p>
-    <p align="center">
-      <img src="https://i.ibb.co/yVNT7qK/scraptify-activity-diagram-Page-5.jpg" alt="scraptify-activity-diagram-Page-5" border="0">
-    </p>
-    <a align="center">
-      <img src="https://i.ibb.co/XzQMh7X/scraptify-activity-diagram-Page-6.jpg" alt="scraptify-activity-diagram-Page-6" border="0">
-    </a>
+    * Meng-update Profile Pengguna
+      <p align="center">
+        <img src="https://i.ibb.co/Tr031Bg/scraptify-activity-diagram-Page-2.jpg" alt="scraptify-activity-diagram-Page-2" border="0">
+      </p>
+    * Meng-update Pengguna
+      <p align="center">
+        <img src="https://i.ibb.co/JynP3qc/scraptify-activity-diagram-Page-3.jpg" alt="scraptify-activity-diagram-Page-3" border="0">
+      </p>
+    * Memproses Penjualan Barang 
+      <p align="center">
+        <img src="https://i.ibb.co/hHjszJw/scraptify-activity-diagram-Page-4.jpg" alt="scraptify-activity-diagram-Page-4" border="0">
+      </p>
+    * Memproses Pembelian Barang
+      <p align="center">
+        <img src="https://i.ibb.co/yVNT7qK/scraptify-activity-diagram-Page-5.jpg" alt="scraptify-activity-diagram-Page-5" border="0">
+      </p>
+    * Menyelesaikan Pembelian Barang
+      <p align="center">
+        <img src="https://i.ibb.co/5sK4z6N/scraptify-activity-diagram-Page-6-1.jpg" alt="scraptify-activity-diagram-Page-6-1" border="0">
+      </p>
     
   * Class diagram 
   * Entity Relationship Diagram 
