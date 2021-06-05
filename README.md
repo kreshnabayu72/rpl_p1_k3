@@ -67,6 +67,8 @@
 ## D. Hasil dan pembahasan 
   * Use case diagram
     * Pengguna Action
+      <a href="https://ibb.co/qJ2YDBK"><img src="https://i.ibb.co/PDVGrxK/Scraptify-usecase-diagram-ORDER-ACTION.jpg" alt="Scraptify-usecase-diagram-ORDER-ACTION" border="0"></a>
+
   * Activity diagram 
   * Class diagram 
   * Entity Relationship Diagram 
