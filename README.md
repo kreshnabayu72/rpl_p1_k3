@@ -106,7 +106,7 @@
       </p>
     * Menyelesaikan Pembelian Barang
       <p align="center">
-        <img src="https://i.ibb.co/5sK4z6N/scraptify-activity-diagram-Page-6-1.jpg" alt="scraptify-activity-diagram-Page-6-1" border="0">
+        <img src="https://i.ibb.co/KWQq8T2/scraptify-activity-diagram-Page-6-2.jpg" alt="scraptify-activity-diagram-Page-6-2" border="0">
       </p>
     
   * Class diagram 
