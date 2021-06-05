@@ -87,7 +87,10 @@
         <img src="https://i.ibb.co/DQsRP5k/scraptify-usecase-diagram-ORDER-ACTION.jpg" alt="scraptify-usecase-diagram-ORDER-ACTION" border="0">
       </p>
 
-  * Activity diagram 
+  * Activity diagram
+    <p align="center">
+      <img src="https://i.ibb.co/Tr031Bg/scraptify-activity-diagram-Page-2.jpg" alt="scraptify-activity-diagram-Page-2" border="0">
+    </p> 
   * Class diagram 
   * Entity Relationship Diagram 
   * Arsitektur sistem
