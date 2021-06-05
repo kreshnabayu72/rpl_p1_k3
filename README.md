@@ -82,7 +82,7 @@
       <p align="center">
         <img src="https://i.ibb.co/kyGBHyH/scraptify-usecase-diagram-CART-ACTION.jpg" alt="scraptify-usecase-diagram-CART-ACTION" border="0">
       </p>
-    * Order Action - Proses Menyelesaiankan Pembelian Barang
+    * Order Action - Proses Menyelesaikan Pembelian Barang
       <p align="center">
         <img src="https://i.ibb.co/DQsRP5k/scraptify-usecase-diagram-ORDER-ACTION.jpg" alt="scraptify-usecase-diagram-ORDER-ACTION" border="0">
       </p>
@@ -96,6 +96,9 @@
     </p>
     <p align="center">
       <img src="https://i.ibb.co/hHjszJw/scraptify-activity-diagram-Page-4.jpg" alt="scraptify-activity-diagram-Page-4" border="0">
+    </p>
+    <p align="center">
+      <img src="https://i.ibb.co/yVNT7qK/scraptify-activity-diagram-Page-5.jpg" alt="scraptify-activity-diagram-Page-5" border="0">
     </p>
     
   * Class diagram 
