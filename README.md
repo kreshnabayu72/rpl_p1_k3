@@ -66,23 +66,23 @@
 
 ## D. Hasil dan pembahasan 
   * Use case diagram
-    1. Pengguna Action
+    * Pengguna Action
       <p align="center">
         <img src="https://i.ibb.co/SvX6xC8/scraptify-usecase-diagram-PENGGUNA-ACTION.jpg" alt="scraptify-usecase-diagram-PENGGUNA-ACTION" border="0">
       </p>
-    2. Admin Action
+    * Admin Action
       <p align="center">
         <img src="https://i.ibb.co/hWVMTbw/scraptify-usecase-diagram-ADMIN-ACTION.jpg" alt="scraptify-usecase-diagram-ADMIN-ACTION" border="0">
       </p>
-    3. Product Action - Proses Menjual Barang
+    * Product Action - Proses Menjual Barang
       <p align="center">
         <img src="https://i.ibb.co/HqQvkgJ/scraptify-usecase-diagram-PRODUCT-ACTION.jpg" alt="scraptify-usecase-diagram-PRODUCT-ACTION" border="0">
       </p>
-    4. Cart Action - Proses Membeli Barang
+    * Cart Action - Proses Membeli Barang
       <p align="center">
         <img src="https://i.ibb.co/kyGBHyH/scraptify-usecase-diagram-CART-ACTION.jpg" alt="scraptify-usecase-diagram-CART-ACTION" border="0">
       </p>
-    5. Order Action - Proses Menyelesaiankan Pembelian Barang
+    * Order Action - Proses Menyelesaiankan Pembelian Barang
       <p align="center">
         <img src="https://i.ibb.co/DQsRP5k/scraptify-usecase-diagram-ORDER-ACTION.jpg" alt="scraptify-usecase-diagram-ORDER-ACTION" border="0">
       </p>
