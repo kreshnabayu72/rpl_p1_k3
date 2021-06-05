@@ -90,7 +90,11 @@
   * Activity diagram
     <p align="center">
       <img src="https://i.ibb.co/Tr031Bg/scraptify-activity-diagram-Page-2.jpg" alt="scraptify-activity-diagram-Page-2" border="0">
-    </p> 
+    </p>
+    <p align="center">
+      <img src="https://i.ibb.co/JynP3qc/scraptify-activity-diagram-Page-3.jpg" alt="scraptify-activity-diagram-Page-3" border="0">
+    </p>
+    
   * Class diagram 
   * Entity Relationship Diagram 
   * Arsitektur sistem
