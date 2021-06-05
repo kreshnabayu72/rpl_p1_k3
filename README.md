@@ -75,9 +75,9 @@
   * Class diagram 
   * Entity Relationship Diagram 
   * Arsitektur sistem 
-    <p align="center">
-      <img src="https://i.ibb.co/LP5xjNS/bandicam-2021-06-04-19-25-38-508.jpg" alt="CartPage" width=750 height=330 align="center">
-    </p>
+    <a href="https://ibb.co/0r8GphZ">
+      <img src="https://i.ibb.co/DQsRP5k/scraptify-usecase-diagram-ORDER-ACTION.jpg" alt="scraptify-usecase-diagram-ORDER-ACTION" border="0">
+    </a>
                                                                                                                                
   * Fungsi utama yang dikembangkan
     * Pembeli dapat membuat order barang tertentu yang dapat diterima oleh penjual. Penjual dapat mengirim barang yang dipesan dan penjual mengkonfirmasi pembelian.
