@@ -70,6 +70,10 @@
       <p href="https://ibb.co/vzxcBnG">
         <img src="https://i.ibb.co/SvX6xC8/scraptify-usecase-diagram-PENGGUNA-ACTION.jpg" alt="scraptify-usecase-diagram-PENGGUNA-ACTION" border="0">
       </p>
+    * Admin Action
+      <a href="https://ibb.co/wW4L2Vj">
+        <img src="https://i.ibb.co/hWVMTbw/scraptify-usecase-diagram-ADMIN-ACTION.jpg" alt="scraptify-usecase-diagram-ADMIN-ACTION" border="0">
+      </a>
     * Order Action
       <p href="https://ibb.co/0r8GphZ">
         <img src="https://i.ibb.co/DQsRP5k/scraptify-usecase-diagram-ORDER-ACTION.jpg" alt="scraptify-usecase-diagram-ORDER-ACTION" border="0">
