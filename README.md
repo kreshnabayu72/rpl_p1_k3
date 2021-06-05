@@ -100,6 +100,9 @@
     <p align="center">
       <img src="https://i.ibb.co/yVNT7qK/scraptify-activity-diagram-Page-5.jpg" alt="scraptify-activity-diagram-Page-5" border="0">
     </p>
+    <a align="center">
+      <img src="https://i.ibb.co/XzQMh7X/scraptify-activity-diagram-Page-6.jpg" alt="scraptify-activity-diagram-Page-6" border="0">
+    </a>
     
   * Class diagram 
   * Entity Relationship Diagram 
