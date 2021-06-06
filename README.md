@@ -187,6 +187,11 @@
      <p align="center">
        <img src="https://i.ibb.co/jVKrHsP/image.png" alt="image" border="0">
      </p>
+     
+    * Create Product Page
+     <p align="center">
+       <img src="https://i.ibb.co/bzRYsH0/image.png" alt="image" border="0">
+     </p>
     
     * User List Page - Admin View
      <p align="center">
