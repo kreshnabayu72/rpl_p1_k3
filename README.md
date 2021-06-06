@@ -172,6 +172,11 @@
      <p align="center">
        <img src="https://i.ibb.co/z5ZC4zy/image.png" alt="image" border="0">
      </p>
+     
+    * Order Page - Pembeli View
+     <p align="center">
+       <img src="https://i.ibb.co/Zgrtq7D/image.png" alt="image" border="0">
+     </p>
     
     * Order History Page
       <p align="center">
@@ -191,11 +196,6 @@
     * User Update Page - Admin View
      <p align="center">
        <img src="https://i.ibb.co/Xxy9dZJ/image.png" alt="image" border="0">
-     </p>
-     
-    * Order Page - Pembeli View
-     <p align="center">
-       <img src="https://i.ibb.co/Zgrtq7D/image.png" alt="image" border="0">
      </p>
     
   * Link aplikasi: (Server harus dinyalakan agar backend website berfungsi)
