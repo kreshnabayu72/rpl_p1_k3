@@ -114,7 +114,10 @@
       <img src="https://i.ibb.co/cTQcgsL/scraptify-class-diagram-2.jpg" alt="scraptify-class-diagram-2" border="0">
     </p>
     
-  * Entity Relationship Diagram 
+  * Entity Relationship Diagram
+    <p align="center">
+      <img src="https://i.ibb.co/0hzw2vZ/scraptify-class-diagram-Page-2.jpg" alt="scraptify-class-diagram-Page-2" border="0">
+    </p>
   
   * Arsitektur sistem
    <p align="center">
