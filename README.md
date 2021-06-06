@@ -119,17 +119,25 @@
     * Pembeli dapat membuat order barang tertentu yang dapat diterima oleh penjual. Penjual dapat mengirim barang yang dipesan dan penjual mengkonfirmasi pembelian.
   * Fungsi CRUD
     * Create:
-      1. Penjual dapat memposting barang baru
+      1. Pengguna dapat membuat akun
       2. Pembeli dapat membuat order barang
+      3. Penjual dapat memposting barang baru
     * Read:
-      1. Semua pengguna dapat melihat barang yang tersedia
-      2. Semua pengguna dapat melihat detail barang
+      1. pengguna dapat melihat barang yang tersedia
+      2. pengguna dapat melihat detail barang
+      3. Pengguna dapat melihat order barang
+      4. Pengguna dapat melihat profile akun
+      5. pengguna dapat melihat barang pada cart
     * Update:
-      1. Semua pengguna dapat mengubah data diri
+      1. Pengguna dapat mengubah data diri
       2. Penjual dapat mengubah deskripsi barang
+      3. Admin dapat meng-update pengguna menjadi admin
+      4. Penjual dapat meng-update order barang
     * Delete: 
       1. Penjual dapat menghapus barang
       2. Admin dapat menghapus order dan barang
+      3. Admin dapat menghapus pengguna
+      4. Pembeli dapat menghapus barang dari cart
     
 
 ## Hasil Implementasi 
@@ -149,7 +157,7 @@
       <img src="https://i.ibb.co/jTL0xyG/item.jpg" alt="CartPage" width=500 height=400 align="center">
     </p>
     
-    * Page Keranjang
+    * Cart Page
      <p align="center">
       <img src="https://i.ibb.co/HKg1nbx/cart.jpg" alt="CartPage" width=500 height=400 align="center">
     </p>
