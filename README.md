@@ -57,7 +57,7 @@
 
 ## Hasil dan Pembahasan 
   **Use Case Diagram**
-    * Pengguna Action
+    1. Pengguna Action
       <p align="center">
         <img src="https://i.ibb.co/SvX6xC8/scraptify-usecase-diagram-PENGGUNA-ACTION.jpg" alt="scraptify-usecase-diagram-PENGGUNA-ACTION" border="0">
       </p>
