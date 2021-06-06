@@ -34,6 +34,13 @@
     7. Sebagai pengguna, agar memudahkan saya mencari barang yg saya cari, saya dapat memilih kategori barang yg saya cari.
     8. Sebagai pengguna, agar dapat mencari barang spesifik, saya dapat menggunakan fitur search.
     9. Sebagai pengguna, agar dapat memastikan bahwa akun saya up-to-date, saya dapat mengganti data akun saya.
+
+  **Software:**
+    * Operating System: Windows 10
+    * Text Editor: Visual Studio Code
+    * Framework: React.js
+    * Library: Bootstrap 
+    * Database: MongoDB Atlas
     
 ## Spesifikasi Teknis Lingkungan Pengembangan
 
