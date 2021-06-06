@@ -21,7 +21,7 @@
  *  Qoriatul Khairunnisa
  
  **Deskripsi Aplikasi:**
-  * Scraptify merupakan aplikasi *e-commerce* sederhana yang ditujukan untuk mahasiswa IPB. (ntar ditambah)
+  * Scraptify adalah sebuah aplikasi web yang memfasilitasi mahasiswa IPB untuk melakukan transaksi jual-beli barang bekas. Aplikasi web ini memiliki fitur menjual dan membeli barang dengan media pembayaran secara tunai (cash on delivery) dan non-tunai (transfer).
 
 
 ## B. User Analysis
