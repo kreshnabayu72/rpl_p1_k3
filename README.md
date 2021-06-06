@@ -177,6 +177,11 @@
      <p align="center">
        <img src="https://i.ibb.co/kgp6y5k/image.png" alt="image" border="0">
      </p>
+     
+    * User Update Page - Admin View
+     <p align="center">
+       <img src="https://i.ibb.co/Xxy9dZJ/image.png" alt="image" border="0">
+     </p>
     
     * Shipping Address Page
      <p align="center">
