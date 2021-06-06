@@ -4,7 +4,7 @@
     <img src="https://i.ibb.co/n1SB8bM/scrap-Logo.png" alt="LogoScraptify" width=240 height=80>
   </a>
   <h3 align="center">Scraptify - Situs Jual Beli Barang Bekas Antar Mahasiswa IPB</h3>
-  <h6 align="center">Paralel 1</h6>
+  <h4 align="center">Paralel 1</h4>
 </p>
 
 **Paralel: 1**
