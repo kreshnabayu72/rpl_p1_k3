@@ -5,7 +5,7 @@
   </a>
   <h3 align="center">Scraptify - Situs Jual Beli Barang Bekas Antar Mahasiswa IPB</h3>
   <p>Paralel 1</p>
-</p>
+</p align="center">
 
 **Paralel: 1**
 
