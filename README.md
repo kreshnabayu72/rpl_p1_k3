@@ -167,6 +167,11 @@
       <p align="center">
         <img src="https://i.ibb.co/GpgKCpc/image.png" alt="image" border="0">
       </p>
+      
+   * Product List Page
+    <p align="center">
+      <img src="https://i.ibb.co/jVKrHsP/image.png" alt="image" border="0">
+    </p>
     
   * Link aplikasi: (Server harus dinyalakan agar backend website berfungsi)
     * Website: https://scraptify.herokuapp.com/ 
