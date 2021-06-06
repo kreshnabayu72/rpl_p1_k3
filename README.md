@@ -202,6 +202,11 @@
      <p align="center">
        <img src="https://i.ibb.co/w0gKG83/image.png" alt="image" border="0">
      </p>
+     
+    * Regiter Page
+     <p align="center">
+       <img src="https://i.ibb.co/MStpNV2/image.png" alt="image" border="0">
+     </p>
     
   * Link aplikasi: (Server harus dinyalakan agar backend website berfungsi)
     * Website: https://scraptify.herokuapp.com/ 
