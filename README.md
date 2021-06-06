@@ -117,6 +117,7 @@
                                                                                                                                
   * Fungsi utama yang dikembangkan
     * Pembeli dapat membuat order barang tertentu yang dapat diterima oleh penjual. Penjual dapat mengirim barang yang dipesan dan penjual mengkonfirmasi pembelian.
+ 
   * Fungsi CRUD
     * Create:
       1. Pengguna dapat membuat akun
@@ -161,6 +162,11 @@
      <p align="center">
       <img src="https://i.ibb.co/HKg1nbx/cart.jpg" alt="CartPage" width=500 height=400 align="center">
     </p>
+    
+    * Order History Page
+      <p align="center">
+        <img src="https://i.ibb.co/GpgKCpc/image.png" alt="image" border="0">
+      </p>
     
   * Link aplikasi: (Server harus dinyalakan agar backend website berfungsi)
     * Website: https://scraptify.herokuapp.com/ 
