@@ -116,7 +116,7 @@
     
   * Entity Relationship Diagram
     <p align="center">
-      <img src="https://i.ibb.co/GJhWT1X/image.png" alt="image" border="0">
+      <img src="https://i.ibb.co/CKSBNgp/scraptify-class-diagram-Page-2-2.jpg" alt="scraptify-class-diagram-Page-2-2" border="0">
     </p>
   
   * Arsitektur sistem
