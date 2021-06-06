@@ -1,4 +1,4 @@
-## A. Pengenalan Projek
+## Pengenalan Projek
 <p align="center">
   <a href="">
     <img src="https://i.ibb.co/n1SB8bM/scrap-Logo.png" alt="LogoScraptify" width=240 height=80>
@@ -24,7 +24,7 @@
   * Scraptify adalah sebuah aplikasi web yang memfasilitasi mahasiswa IPB untuk melakukan transaksi jual-beli barang bekas. Aplikasi web ini memiliki fitur menjual dan membeli barang dengan media pembayaran secara tunai (cash on delivery) dan non-tunai (transfer).
 
 
-## B. User Analysis
+## User Analysis
   * User story
     1. Sebagai pengguna yang telah log out, agar dapat menggunakan aplikasi secara personal, saya dapat mengetikkan alamat email dan kata sandi saya untuk masuk ke aplikasi. 
     2. Sebagai mahasiswa yang membutuhkan barang tertentu, saya dapat login ke situs dan melihat-lihat barang yang dijual lalu membelinya.
@@ -36,7 +36,7 @@
     8. Sebagai pengguna, agar dapat mencari barang spesifik, saya dapat menggunakan fitur search.
     9. Sebagai pengguna, agar dapat memastikan bahwa akun saya up-to-date, saya dapat mengganti data akun saya.
 
-## C. Spesifikasi teknis lingkungan pengembangan
+## Spesifikasi Teknis Lingkungan Pengembangan
 
 **Software:**
   * Operating System: Windows 10
@@ -56,7 +56,7 @@
  * Backend: NodeJS & ExpressJS
  * Database: MongoDB 
 
-## D. Hasil dan pembahasan 
+## Hasil dan Pembahasan 
   * Use Case Diagram
     * Pengguna Action
       <p align="center">
@@ -133,7 +133,7 @@
       2. Admin dapat menghapus order dan barang
     
 
-## E. Hasil implementasi 
+## Hasil Implementasi 
   * Screenshot sistem 
     * Homepage
     <p align="center">
@@ -159,7 +159,7 @@
     * Website: https://scraptify.herokuapp.com/ 
     * Server: https://scraptify-server.herokuapp.com/
 
-## F. Testing (Test cases)
+## Testing (Test cases)
   * Positive case
 
   | Test case id 	| Test scenario                       	| Test steps                                                                                                                                                                                                                                                                                                                                                                                                                                                        	| Test data                                                                                                                                                                                                                                                            	| Expected result                                            	| Actual Result                                                            	| Pass/Fail 	|
