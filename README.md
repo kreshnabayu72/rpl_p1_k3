@@ -109,8 +109,13 @@
         <img src="https://i.ibb.co/KWQq8T2/scraptify-activity-diagram-Page-6-2.jpg" alt="scraptify-activity-diagram-Page-6-2" border="0">
       </p>
     
-  * Class diagram 
+  * Class diagram
+    <p align="center">
+      <img src="https://i.ibb.co/VMw9cDM/scraptify-class-diagram.jpg" alt="scraptify-class-diagram" border="0">
+    </p>
+    
   * Entity Relationship Diagram 
+  
   * Arsitektur sistem
    <p align="center">
       <img src="https://i.ibb.co/LP5xjNS/bandicam-2021-06-04-19-25-38-508.jpg" alt="CartPage" width=750 height=330 align="center">
