@@ -65,7 +65,7 @@
  * Database: MongoDB 
 
 ## D. Hasil dan pembahasan 
-  * Use case diagram
+  * Use Case Diagram
     * Pengguna Action
       <p align="center">
         <img src="https://i.ibb.co/SvX6xC8/scraptify-usecase-diagram-PENGGUNA-ACTION.jpg" alt="scraptify-usecase-diagram-PENGGUNA-ACTION" border="0">
@@ -87,7 +87,7 @@
         <img src="https://i.ibb.co/DQsRP5k/scraptify-usecase-diagram-ORDER-ACTION.jpg" alt="scraptify-usecase-diagram-ORDER-ACTION" border="0">
       </p>
 
-  * Activity diagram
+  * Activity Diagram
     * Meng-update Profile Pengguna
       <p align="center">
         <img src="https://i.ibb.co/Tr031Bg/scraptify-activity-diagram-Page-2.jpg" alt="scraptify-activity-diagram-Page-2" border="0">
@@ -109,7 +109,7 @@
         <img src="https://i.ibb.co/KWQq8T2/scraptify-activity-diagram-Page-6-2.jpg" alt="scraptify-activity-diagram-Page-6-2" border="0">
       </p>
     
-  * Class diagram
+  * Class Diagram
     <p align="center">
       <img src="https://i.ibb.co/6ssm0d2/scraptify-class-diagram-Page-1.jpg" alt="scraptify-class-diagram-Page-1" border="0">
     </p>
@@ -119,7 +119,7 @@
       <img src="https://i.ibb.co/CKSBNgp/scraptify-class-diagram-Page-2-2.jpg" alt="scraptify-class-diagram-Page-2-2" border="0">
     </p>
   
-  * Arsitektur sistem
+  * Arsitektur Sistem
    <p align="center">
       <img src="https://i.ibb.co/LP5xjNS/bandicam-2021-06-04-19-25-38-508.jpg" alt="CartPage" width=750 height=330 align="center">
    </p>
