@@ -25,7 +25,7 @@
 
 
 ## B. User Analysis
-  * User story
+  # User story
     1. Sebagai pengguna yang telah log out, agar dapat menggunakan aplikasi secara personal, saya dapat mengetikkan alamat email dan kata sandi saya untuk masuk ke aplikasi. 
     2. Sebagai mahasiswa yang membutuhkan barang tertentu, saya dapat login ke situs dan melihat-lihat barang yang dijual lalu membelinya.
     3. Sebagai pembeli, agar dapat melakukan pembayaran, saya dapat menentukan metode pembayaran.
