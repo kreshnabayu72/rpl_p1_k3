@@ -23,6 +23,14 @@
   </p>
 
 ## User Analysis
+
+  **Software:**
+    * Operating System: Windows 10
+    * Text Editor: Visual Studio Code
+    * Framework: React.js
+    * Library: Bootstrap 
+    * Database: MongoDB Atlas
+
   **User Story**
     * Operating System: Windows 10
     * Sebagai pengguna yang telah log out, agar dapat menggunakan aplikasi secara personal, saya dapat mengetikkan alamat email dan kata sandi saya untuk masuk ke aplikasi. 
