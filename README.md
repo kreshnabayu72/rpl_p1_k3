@@ -174,9 +174,9 @@
     </p>
     
     * User List Page - Admin View
-    <p align="center">
-      <img src="https://i.ibb.co/kgp6y5k/image.png" alt="image" border="0">
-    </p>
+      <p align="center">
+        <img src="https://i.ibb.co/kgp6y5k/image.png" alt="image" border="0">
+      </p>
     
   * Link aplikasi: (Server harus dinyalakan agar backend website berfungsi)
     * Website: https://scraptify.herokuapp.com/ 
