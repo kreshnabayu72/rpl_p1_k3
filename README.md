@@ -7,7 +7,7 @@
   <h4 align="center">Paralel 1</h4>
   <h4 align="center">Kelompok 3</h4>
   <h4 align="center">Anggota</h4>
-  <p align="center">Falih Alwana Yasril (G64190067) - **Software Tester**</p>
+  <p align="center">Falih Alwana Yasril (G64190067) - <strong>Software Tester</strong></p>
   <p align="center">Muhammad Alfarizhi (G64190087) - **UI/UX Designer**</p>
   <p align="center">Febri Bawahir (G64190096) - **Backend Developer**</p>
   <p align="center">Kreshna Bayu Ananta Phasya (G64190098) - **Frontend Developer**</p>
