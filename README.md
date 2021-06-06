@@ -13,16 +13,6 @@
   <p align="center">Kreshna Bayu Ananta Phasya (G64190098) - <strong>Frontend Developer</strong></p>
 </p>
 
-**Paralel: 1**
-
-**Kelompok: 3**
-
-**Anggota:**
-  * Falih Alwana Yasril (G64190067) - **Software Tester**
-  * Muhammad Alfarizhi (G64190087) - **UI/UX Designer**
-  * Febri Bawahir (G64190096) - **Backend Developer**
-  * Kreshna Bayu Ananta Phasya (G64190098) - **Frontend Developer**
-
 **Asisten Praktikum:** 
  *  Indah Puspita
  *  Qoriatul Khairunnisa
