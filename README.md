@@ -164,6 +164,11 @@
     * Server: https://scraptify-server.herokuapp.com/
 
 ## F. Testing (Test cases)
+  | Test case id 	| Test scenario 	| Test steps 	| Test data 	| Expected result 	| Actual Result 	| Pass/Fail 	|
+|--------------	|---------------	|------------	|-----------	|-----------------	|---------------	|-----------	|
+|              	|               	|            	|           	|                 	|               	|           	|
+|              	|               	|            	|           	|                 	|               	|           	|
+|              	|               	|            	|           	|                 	|               	|           	|
 
 ## G. Saran untuk pengembangan selanjutnya
 
