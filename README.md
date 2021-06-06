@@ -168,25 +168,30 @@
         <img src="https://i.ibb.co/GpgKCpc/image.png" alt="image" border="0">
       </p>
       
-   * Product List Page
-    <p align="center">
-      <img src="https://i.ibb.co/jVKrHsP/image.png" alt="image" border="0">
-    </p>
+    * Product List Page
+     <p align="center">
+       <img src="https://i.ibb.co/jVKrHsP/image.png" alt="image" border="0">
+     </p>
     
-   * User List Page - Admin View
-    <p align="center">
-      <img src="https://i.ibb.co/kgp6y5k/image.png" alt="image" border="0">
-    </p>
+    * User List Page - Admin View
+     <p align="center">
+       <img src="https://i.ibb.co/kgp6y5k/image.png" alt="image" border="0">
+     </p>
     
-   * Shipping Address Page
-    <p align="center">
-      <img src="https://i.ibb.co/GxwH55s/image.png" alt="image" border="0">
-    </p>
+    * Shipping Address Page
+     <p align="center">
+       <img src="https://i.ibb.co/GxwH55s/image.png" alt="image" border="0">
+     </p>
     
-   * Payment Method Page
-    <p align="center">
-      <img src="https://i.ibb.co/z5ZC4zy/image.png" alt="image" border="0">
-    </p>
+    * Payment Method Page
+     <p align="center">
+       <img src="https://i.ibb.co/z5ZC4zy/image.png" alt="image" border="0">
+     </p>
+     
+    * Order Page - Pembeli View
+     <p align="center">
+       <img src="https://i.ibb.co/z5ZC4zy/image.png" alt="image" border="0">
+     </p>
     
   * Link aplikasi: (Server harus dinyalakan agar backend website berfungsi)
     * Website: https://scraptify.herokuapp.com/ 
