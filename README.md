@@ -111,14 +111,13 @@
     
   * Class diagram
     <p align="center">
-      <img src="https://i.ibb.co/VMw9cDM/scraptify-class-diagram.jpg" alt="scraptify-class-diagram" border="0">
+      <img src="https://i.ibb.co/MPrK1gr/scraptify-class-diagram-1.jpg" alt="scraptify-class-diagram-1" border="0">
     </p>
     
   * Entity Relationship Diagram 
   
   * Arsitektur sistem
    <p align="center">
-      <img src="https://i.ibb.co/MPrK1gr/scraptify-class-diagram-1.jpg" alt="scraptify-class-diagram-1" border="0">
     </p>
                                                                                                                                
   * Fungsi utama yang dikembangkan
