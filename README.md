@@ -173,7 +173,7 @@
       <img src="https://i.ibb.co/jVKrHsP/image.png" alt="image" border="0">
     </p>
     
-    * User List Page - Admin View
+    * User List Page
       <p align="center">
         <img src="https://i.ibb.co/kgp6y5k/image.png" alt="image" border="0">
       </p>
