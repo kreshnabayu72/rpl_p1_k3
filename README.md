@@ -4,9 +4,9 @@
     <img src="https://i.ibb.co/n1SB8bM/scrap-Logo.png" alt="LogoScraptify" width=240 height=80>
   </a>
   <h3 align="center">Scraptify - Situs Jual Beli Barang Bekas Antar Mahasiswa IPB</h3>
-  <h4 align="center">Rekayasa Perangkat Lunak - Paralel 1</h4>
-  <h4 align="center">Kelompok 3</h4>
-  <h4 align="center">Anggota</h4>
+  <p align="center"><strong>Rekayasa Perangkat Lunak - Paralel 1</strong></p>
+  <p align="center"><strong>Kelompok 3</strong></p>
+  <p align="center"><strong>Anggota</strong></p>
   <p align="center">Falih Alwana Yasril (G64190067) - <strong>Software Tester</strong></p>
   <p align="center">Muhammad Alfarizhi (G64190087) - <strong>UI/UX Designer</strong></p>
   <p align="center">Febri Bawahir (G64190096) - <strong>Backend Developer</strong></p>
