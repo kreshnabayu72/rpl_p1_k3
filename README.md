@@ -111,7 +111,7 @@
     
   * Class diagram
     <p align="center">
-      <img src="https://i.ibb.co/cTQcgsL/scraptify-class-diagram-2.jpg" alt="scraptify-class-diagram-2" border="0">
+      <img src="https://i.ibb.co/6ssm0d2/scraptify-class-diagram-Page-1.jpg" alt="scraptify-class-diagram-Page-1" border="0">
     </p>
     
   * Entity Relationship Diagram
