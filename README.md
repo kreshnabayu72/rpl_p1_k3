@@ -24,6 +24,7 @@
 
 ## User Analysis
   **User Story**
+    * Operating System: Windows 10
     * Sebagai pengguna yang telah log out, agar dapat menggunakan aplikasi secara personal, saya dapat mengetikkan alamat email dan kata sandi saya untuk masuk ke aplikasi. 
     * Sebagai mahasiswa yang membutuhkan barang tertentu, saya dapat login ke situs dan melihat-lihat barang yang dijual lalu membelinya.
     * Sebagai pembeli, agar dapat melakukan pembayaran, saya dapat menentukan metode pembayaran.
