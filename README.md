@@ -245,4 +245,4 @@
   * Tingkatkan kerjasama, komunikasi, dan disiplin terutama dalam mengupdate jurnal & trello
   * Meningkatkan website menjadi lebih responsif dan dinamis
   * Meminimalisirkan bug pada website
-  * Mengembangkan User Experience pada webiste
+  * Meningkatkan User Experience pada webiste
