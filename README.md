@@ -42,7 +42,7 @@
   * Text Editor: Visual Studio Code
   * Framework: React.js
   * Library: Bootstrap 
-  * Database: MongoDB Atlas
+ 
 
 **Hardware:**
   * Processor: Intel Core i5-8300H 
